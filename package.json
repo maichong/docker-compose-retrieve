@@ -1,0 +1,27 @@
+{
+  "name": "docker-compose-retrieve",
+  "version": "0.1.1",
+  "description": "",
+  "main": "docker-compose-retrieve.js",
+  "bin": {
+    "docker-compose-retrieve": "./docker-compose-retrieve.js"
+  },
+  "dependencies": {
+    "js-yaml": "^3.5.2",
+    "lodash": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/docker-compose-retrieve.git"
+  },
+  "author": {
+    "name": "Liang",
+    "email": "liang@maichong.it",
+    "url": "https://github.com/liangxingchen"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/docker-compose-retrieve/issues"
+  },
+  "homepage": "https://github.com/maichong/docker-compose-retrieve#readme"
+}
